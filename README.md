@@ -173,7 +173,11 @@ Exporta todas as tarefas cadastradas para um arquivo JSON.
 Exemplo:
 - Tarefas exportadas para tarefas.json.
 
+**Baixar as tarefas em formato JSON:**
 ![Exportar Tarefas para JSON](images/exemplo5.png)
+
+**Arquivo JSON:**
+![Exportar Tarefas para JSON](images/exemplo6.png)
 
 **OBS: deve-se dar permissão para que o arquivo JSON seja baixado.**
 
@@ -182,5 +186,5 @@ Exemplo:
 ## 12. Limpar Console
 Limpa o que estiver na tela para uma visualização mais nítida.
 
-![Exportar Tarefas para JSON](images/exemplo6.png)
+![Exportar Tarefas para JSON](images/exemplo7.png)
 
