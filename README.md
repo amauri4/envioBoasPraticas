@@ -84,13 +84,13 @@ Exemplo:
 - Descrição: Ir à padaria e comprar 2 pães.
 - Prioridade: alta
 
-**Selecionando a função**
+**Selecionando a função:**
 ![Adicionar Tarefa](images/exemplo1.png)
 
-**Colocando o título(para as demais informações, deve-se seguir o mesmo procedimento)**
+**Colocando o título(para as demais informações, deve-se seguir o mesmo procedimento):**
 ![Adicionar Tarefa](images/exemplo11.png)
 
-**Resultado**
+**Resultado:**
 ![Adicionar Tarefa](images/exemplo12.png)
 
 ---
@@ -162,7 +162,7 @@ Exemplo:
 Exibe a descrição ou notas de uma tarefa especificada pelo ID.
 Exemplo:
 - Notas para a tarefa (Nome da tarefa):
-- Descrição: Lembrar de comprar leite!!
+- Descrição: Também comprar leite!!
 
 ![Exportar Tarefas para JSON](images/exemplo4.png)
 
@@ -172,10 +172,15 @@ Exemplo:
 Exporta todas as tarefas cadastradas para um arquivo JSON.
 Exemplo:
 - Tarefas exportadas para tarefas.json.
+
+![Exportar Tarefas para JSON](images/exemplo5.png)
+
 **OBS: deve-se dar permissão para que o arquivo JSON seja baixado.**
 
 ---
 
 ## 12. Limpar Console
-Limpa o que estiver na tela para uma visualização mais limpa.
+Limpa o que estiver na tela para uma visualização mais nítida.
+
+![Exportar Tarefas para JSON](images/exemplo6.png)
 
